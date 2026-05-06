@@ -14,16 +14,26 @@ Backend API URL: `Add your Render/Railway URL here`
 
 ## Screenshots
 
-Add screenshots here after deployment:
-<img width="600" alt="Screenshot (1792)" src="https://github.com/user-attachments/assets/b2865cb5-d316-402c-b7b9-8a72b82c8b1e" />
-<img width="600" alt="Screenshot (1796)" src="https://github.com/user-attachments/assets/84d14f0e-935e-4a3a-acf7-7199e673cfd3" />
-<img width="600" alt="Screenshot (1799)" src="https://github.com/user-attachments/assets/023504d4-6f52-407c-b89f-b9b3a5d38a1e" />
-<img width="600" alt="Screenshot (1801)" src="https://github.com/user-attachments/assets/dce0c9d6-a8a0-4574-b10b-30344800cb51" />
-<img width="600" alt="Screenshot (1786)" src="https://github.com/user-attachments/assets/2c69e8dd-4743-44f1-9821-e117af66e5d0" />
-<img width="600" alt="Screenshot (1789)" src="https://github.com/user-attachments/assets/be46a133-7647-477d-ae56-1e656a0670f6" />
-<img width="600" alt="Screenshot (1787)" src="https://github.com/user-attachments/assets/41975dd3-673d-4fd1-8559-8ddc746dfa37" />
-<img width="600" alt="Screenshot (1790)" src="https://github.com/user-attachments/assets/cdef3b87-b44f-4d37-9e45-ced4d06c5cdf" />
-<img width="600" alt="Screenshot (1791)" src="https://github.com/user-attachments/assets/66bbe75e-e57f-4ddb-a83b-509fa5dce8dd" />
+<p align="center">
+<table>
+  <tr>
+    <td><img width="400" alt="Screenshot (1792)" src="https://github.com/user-attachments/assets/b2865cb5-d316-402c-b7b9-8a72b82c8b1e" /></td>
+    <td><img width="400" alt="Screenshot (1796)" src="https://github.com/user-attachments/assets/84d14f0e-935e-4a3a-acf7-7199e673cfd3" /></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Screenshot (1799)" src="https://github.com/user-attachments/assets/023504d4-6f52-407c-b89f-b9b3a5d38a1e" /></td>
+    <td><img width="400" alt="Screenshot (1801)" src="https://github.com/user-attachments/assets/dce0c9d6-a8a0-4574-b10b-30344800cb51" /></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Screenshot (1786)" src="https://github.com/user-attachments/assets/2c69e8dd-4743-44f1-9821-e117af66e5d0" /></td>
+    <td><img width="400" alt="Screenshot (1789)" src="https://github.com/user-attachments/assets/be46a133-7647-477d-ae56-1e656a0670f6" /></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Screenshot (1787)" src="https://github.com/user-attachments/assets/41975dd3-673d-4fd1-8559-8ddc746dfa37" /></td>
+    <td><img width="400" alt="Screenshot (1791)" src="https://github.com/user-attachments/assets/66bbe75e-e57f-4ddb-a83b-509fa5dce8dd" /></td>
+  </tr> 
+</table>
+</p>
 
 ## Features
 
